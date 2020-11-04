@@ -1,0 +1,62 @@
+body{ 
+    font-family: 'Montserrat'; 
+}
+img{
+    position: relative;
+}
+.geral{
+    color: rgb(252, 252, 252);
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 40px;
+    left: 64%;
+    font-size: 13px;
+}
+i{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+button{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: blue;
+    color: cornsilk;
+    font-size: 17px;
+    font-weight: bold;
+   
+}
+
+h1{
+    position: absolute;
+    top: 46%;
+    left:40% ;
+    font-size: 22px;
+    letter-spacing: 2px;
+} 
+
+
+h2{
+
+    position: absolute;
+    top: 47%;
+    left: 10%;
+    font-size: 82px;
+    letter-spacing: 2px;
+
+}
+
+h3{
+    position: absolute;
+    top: 62%;
+    left: 23%;
+    font-size: 82px;
+    letter-spacing: 2px;
+
+}
