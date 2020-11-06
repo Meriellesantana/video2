@@ -1,15 +1,18 @@
 body{
     font-family: 'Montserrat';
 }
-img{
+
+.princ{
     position: relative;
+    width:100%;
+   
 }
 .lateral{
     position: fixed;
-    top: 22%;
+    top: 29%;
     left: 94%;
-    padding: 23px;
-    background-color: rgb(216, 216, 216);
+    width: 4.5%;
+    background-color: rgb(250, 250, 250);
     z-index: 600;
     border-radius: 12px;
    
@@ -17,11 +20,42 @@ img{
 .lat{
     color: rgb(145, 145, 145);  
     font-size: 32px;
-    padding-top: 10%;
+    padding-top: 23%;
+    padding-bottom: 23%;
+    border-top: 1px solid rgb(202, 195, 195);  
+    text-align: center;
 }
-.princ{
-    width:100%;
+.latt{
+    color: rgb(145, 145, 145);  
+    font-size: 32px;
+    padding-top: 23%;
+    padding-bottom: 23%;
+    text-align: center;
 }
+.azul{
+    position: fixed;
+    top: 87%;
+    left: 94%;
+    padding: 2%;
+    border-radius: 50%;
+    border: 5px solid rgb(230, 216, 216);
+    background-color: rgba(253, 253, 253, 0);
+    z-index: 400;
+}
+.azul:hover{
+    border: 5px solid rgb(19, 22, 214);
+    background-color:rgb(19, 22, 214);
+}
+
+#az{
+    position: fixed;
+    top: 88.5%;
+    left: 1609px;
+    color: rgb(230, 216, 216);
+    font-size: 48px;
+    
+}
+
 .geral{
     color: rgb(252, 252, 252);
 }
@@ -95,6 +129,8 @@ h3{
     font-size:102px;
     letter-spacing:2px;
 }
+
+
 .rapaz{
     display:flex;
     justify-content:space-around;
@@ -197,7 +233,7 @@ h3{
 .cas:hover,.arq:hover,.eve:hover,.mods:hover,.fam:hover,.mat:hover,.mod:hover{
     cursor:pointer;
     transform: scale(1.1);
-    
+      
 }
 .butt{
     position:absolute;
@@ -234,7 +270,7 @@ h3{
 .hire{
     position:absolute;
     top:17%;
-    left:77%;
+    left:80%;
     background-color:rgba(15, 15, 15, 0);
     border:4px solid hsl(0, 2%, 40%);
     border-radius: 12px;
@@ -250,6 +286,7 @@ h3{
     cursor: pointer;
 }
 .inst{
+   
     display:flex;
     flex-direction: row;
     justify-content: space-around;
@@ -258,9 +295,12 @@ h3{
 }
 .inst1,.inst2,.inst3,.inst4,.inst5,.inst6{
     width: 16%;
+    
 }
 .inst1:hover,.inst2:hover,.inst3:hover,.inst4:hover,.inst5:hover,.inst6:hover{
     cursor: pointer;
+    background-image: url("../img/instaa.png");
+     
 }
 .fim{
     color: rgb(252, 252, 252);  
