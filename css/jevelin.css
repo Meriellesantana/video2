@@ -189,21 +189,315 @@ h3{
     position:relative;
     margin-left:3%;
     margin-right:3%;
+    z-index: 10;
+}
+
+.mais{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 121%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito{
+    position: absolute;
+    margin-top:0%;
+    left: 0%;
+    color: rgba(255, 255, 255, 0);
+    width: 32%;
+    padding-bottom: 22.2%;
+    text-align: center;
+    z-index: 3000;
+    
+}
+.mais{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 121%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito1{
+    position: absolute;
+    margin-top:0%;
+    left: 34%;
+    color: rgba(255, 255, 255, 0);
+    width: 32%;
+    padding-bottom: 6.6%;
+    text-align: center;
+    z-index: 3000;
+    
+}
+.mais1{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood1{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 66%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here1{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito2{
+    position: absolute;
+    margin-top:0%;
+    left: 68%;
+    color: rgba(255, 255, 255, 0);
+    width: 32%;
+    padding-bottom: 23.5%;
+    text-align: center;
+    z-index: 3000;
+    
+}
+.mais2{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood2{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 65%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here2{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito3{
+    position: absolute;
+    margin-top: 34%;
+    left: 34%;
+    color: rgba(255, 255, 255, 0);
+    width: 32%;
+    padding-bottom: 12%;
+    text-align: center;
+    z-index: 3000;
+    
+}
+.mais3{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood3{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 101%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here3{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito4{
+    position: absolute;
+    margin-top:67%;
+    left: 0%;
+    color: rgba(255, 255, 255, 0);
+    width: 32%;
+    padding-bottom: 6%;
+    text-align: center;
+    z-index: 3000;
+    
+}
+.mais4{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood4{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 121%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here4{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito5{
+    position: absolute;
+    margin-top:84.6%;
+    left: 34%;
+    width: 32%;
+    padding-bottom: 13%;
+    text-align: center;
+    z-index: 3000;
+    color: rgba(255, 255, 255, 0);
+    
+}
+.mais5{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood5{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 44%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here5{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;
+    z-index: 4000;
+   
+}
+.efeito6{
+    position: absolute;
+    margin-top: 50.5%;
+    left: 68%;
+    width: 32%;
+    padding-bottom: 22.5%;
+    text-align: center;
+    z-index: 3000;
+    color: rgba(255, 255, 255, 0);
+    
+}
+.mais6{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 90%;
+    font-size:47px;
+    font-weight: normal;
+    z-index: 4000;
+    
+
+}
+.wood6{
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 121%;
+    margin-left: -9%;
+    z-index: 4000;
+  
+}
+.here6{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 4%;
+    margin-left: -9%;  
+    z-index: 4000;
+   
+}
+.efeito:hover,.efeito1:hover,.efeito2:hover,.efeito3:hover,.efeito4:hover,.efeito5:hover,.efeito6:hover{
+    background-color: rgba(0, 0, 0, 0.308);
+    color: rgb(255, 255, 255);
 }
 .cas{
     width:32%;
     position:absolute;
     left:0%;
+    z-index: 10;
 }
 .arq{
     width:32%;
     position:absolute;
     left:34%;
+    z-index: 10;
 }
 .eve{
     width:32%;
     position:absolute;
     left:68%;
+    z-index: 10;
 }
 .mods{
     width:32%;
@@ -211,17 +505,20 @@ h3{
     left:34%;
     margin-top:34%;
     top:0%;
+    z-index: 10;
 }
 .fam{
     width:32%;
     position:absolute;
     margin-top:67%;
+    z-index: 10;
 }
 .mat{
     width:32%;
     position:absolute;
     left:34%;
     margin-top:84.7%;
+    z-index: 10
 }
 .mod{
     width:32%;
@@ -229,10 +526,11 @@ h3{
     left:68%;
     right:0%;
     margin-top:50.5%;
+    z-index: 10;
 }
 .cas:hover,.arq:hover,.eve:hover,.mods:hover,.fam:hover,.mat:hover,.mod:hover{
     cursor:pointer;
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
       
 }
 .butt{
@@ -286,7 +584,7 @@ h3{
     cursor: pointer;
 }
 .inst{
-   
+    position: relative;
     display:flex;
     flex-direction: row;
     justify-content: space-around;
@@ -297,9 +595,83 @@ h3{
     width: 16%;
     
 }
-.inst1:hover,.inst2:hover,.inst3:hover,.inst4:hover,.inst5:hover,.inst6:hover{
+.tagra1{
+    position: absolute;
+    left: 0.3%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+.tagra2{
+    position: absolute;
+    left: 17%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+.tagra3{
+    position: absolute;
+    left: 33.4%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14.3%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+.tagra4{
+    position: absolute;
+    left: 50.4%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+.tagra5{
+    position: absolute;
+    left: 67%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+.tagra6{
+    position: absolute;
+    left: 83.4%;
+    padding-left: 2%;
+    padding-bottom: 6.4%;
+    padding-top: 7%;
+    width: 14%;
+    color: rgba(255, 255, 255, 0);
+    text-align: center;
+    font-size: 34px;
+
+}
+
+.tagra1:hover,.tagra2:hover,.tagra3:hover,.tagra4:hover,.tagra5:hover,.tagra6:hover{
     cursor: pointer;
-    background-image: url("../img/instaa.png");
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.425);
      
 }
 .fim{
